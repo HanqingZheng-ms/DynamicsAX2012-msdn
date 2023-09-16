@@ -1,11 +1,12 @@
-﻿---
-title: while select Statements
+---
+title: Understanding while select Statements in Microsoft Dynamics AX 2012
 TOCTitle: while select Statements
 ms:assetid: 1f749f04-8604-46e6-b444-bf6fa5c2482b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Aa558063(v=AX.60)
 ms:contentKeyID: 35241513
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+description: Learn how to use while select statements in Microsoft Dynamics AX 2012 for data manipulation. Includes examples and syntax for optimal data integrity.
 ---
 
 # while select Statements 

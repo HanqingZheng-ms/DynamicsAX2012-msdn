@@ -1,11 +1,12 @@
-﻿---
-title: 'Walkthrough: Extending RunBaseBatch Class to Create and Run a Batch'
+---
+title: Creating and Running a Batch with RunBaseBatch Class in Dynamics AX 2012
 TOCTitle: 'Walkthrough: Extending RunBaseBatch Class to Create and Run a Batch'
 ms:assetid: b94e68f1-588b-4472-bb08-7a37da9a74ec
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Cc636647(v=AX.60)
 ms:contentKeyID: 35249863
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+description: Learn how to create and run a batch job in Microsoft Dynamics AX 2012 by extending the RunBaseBatch class. This guide includes configuring AOS batch server, scheduling, and viewing your batch.
 ---
 
 # Walkthrough: Extending RunBaseBatch Class to Create and Run a Batch 

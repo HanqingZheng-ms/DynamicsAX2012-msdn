@@ -1,11 +1,12 @@
-﻿---
-title: Using Expressions in Query Ranges
+---
+title: Using Expressions in Query Ranges for Microsoft Dynamics AX 2012
 TOCTitle: Using Expressions in Query Ranges
 ms:assetid: ff839bb9-67f7-4184-a5bd-a853089e5426
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Aa893981(v=AX.60)
 ms:contentKeyID: 35254216
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+description: Learn how to use query range value expressions in Microsoft Dynamics AX 2012. Understand how to create complex ranges and use relational and logical operators in X++.
 ---
 
 # Using Expressions in Query Ranges 
