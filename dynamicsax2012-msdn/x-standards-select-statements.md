@@ -1,11 +1,12 @@
-﻿---
-title: 'X++ Standards: select Statements'
+---
+title: X++ Standards for Select Statements in Microsoft Dynamics AX 2012
 TOCTitle: 'X++ Standards: select Statements'
 ms:assetid: bc884a0f-629c-49be-a2af-868a28d465a4
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Aa861766(v=AX.60)
 ms:contentKeyID: 35250003
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+description: Learn the basic rules and best practices for using select statements in X++ for Microsoft Dynamics AX 2012. Includes tips on ordering data, using index hints, and optimizing select statements.
 ---
 
 # X++ Standards: select Statements 

@@ -1,11 +1,12 @@
-﻿---
-title: 'How to: Merge Branches'
+---
+title: Guide on Merging Branches in Microsoft Dynamics AX 2012
 TOCTitle: 'How to: Merge Branches'
 ms:assetid: 5ec9943a-48fa-4068-858a-499928b94787
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Hh272175(v=AX.60)
 ms:contentKeyID: 36544625
 ms.date: 11/07/2012
 mtps_version: v=AX.60
+description: Learn how to merge branches in Microsoft Dynamics AX 2012. This guide provides step-by-step instructions on merging code from one branch to another using TFS.
 ---
 
 # How to: Merge Branches 
